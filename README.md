@@ -32,7 +32,7 @@ Read the numbered documents in order; each builds only on the ones before it.
 
 ## Development
 
-`pnpm check` runs the typecheck, the tests and the build.
+`pnpm check` is the easiest way to verify a change: it runs the type check, the tests and the build in one go and stops at the first step that fails.
 
 ## License
 
